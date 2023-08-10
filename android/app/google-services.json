@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838939848941",
+    "project_id": "authentication-otp-4f170",
+    "storage_bucket": "authentication-otp-4f170.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838939848941:android:8f11412630e527f5711ce4",
+        "android_client_info": {
+          "package_name": "com.example.authentication_otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838939848941-l12j4blfv49r687selabk4csledmuaag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8E4VNmd_Cw--TdAjTj-jQlm4wkp-6TVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838939848941-l12j4blfv49r687selabk4csledmuaag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
